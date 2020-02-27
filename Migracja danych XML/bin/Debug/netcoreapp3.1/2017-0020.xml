@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<articles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://pkp.sfu.ca" access_status="0" seq="1" section_ref="ART" date_published="2017-07-26" stage="production" date_submitted="2020-01-02" locale="en_US">
+  <id type="internal" advice="ignore">20170020</id>
+  <title locale="en_US">Geometrical Model of Lemon Fruit</title>
+  <prefix locale="en_US">
+  </prefix>
+  <abstract locale="en_US">A proposal of a mathematical method of modelling of the lemon shape with Bézier's curves was presented. Lisbon, Verna, Genoa lemon cultivars were selected for verification of the modelling method. The lemon contour, which is its meridian, was described with three smoothly combined Bézier's curves. Pictures taken in 10 locations changing every 36o were the basis for description of lemon contours. Bézier's curves, which approximate meridians located on the surface of lemons, are their 3&lt;em&gt;D&lt;/em&gt; models. The presented method may be applied for mathematical modelling of the lemon shape.</abstract>
+  <licenseUrl>https://creativecommons.org/licenses/by-nc-nd/4.0/</licenseUrl>
+  <keywords locale="en_US">
+    <keyword>Lemons</keyword>
+    <keyword>shape</keyword>
+    <keyword>Bezier's curves</keyword>
+    <keyword>mathematical models</keyword>
+  </keywords>
+  <authors xsi:schemaLocation="http://pkp.sfu.ca native.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <author primary_contact="true" include_in_browse="true" user_group_ref="Author">
+      <givenname locale="en_US">Leszek</givenname>
+      <familyname locale="en_US">Mieszkalski</familyname>
+      <affiliation locale="en_US">Institute of Production Organization and Engineering, Warsaw University of Life Sciences</affiliation>
+      <country>PL</country>
+      <email>mieszko@poczta.fm</email>
+    </author>
+  </authors>
+  <article_galley xsi:schemaLocation="http://pkp.sfu.ca native.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" approved="false">
+    <id advice="ignore" type="internal">10</id>
+    <name locale="en_US">HTML</name>
+    <seq>1</seq>
+    <remote src="https://doi.org/10.1515/agriceng-2017-0020" />
+  </article_galley>
+  <issue_idenrification>
+    <volume>21</volume>
+    <number>2</number>
+    <year>2017</year>
+  </issue_idenrification>
+  <pages>101-110</pages>
+</articles>

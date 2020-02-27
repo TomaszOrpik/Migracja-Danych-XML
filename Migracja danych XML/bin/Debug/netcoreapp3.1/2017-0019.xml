@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<articles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://pkp.sfu.ca" access_status="0" seq="1" section_ref="ART" date_published="2017-07-26" stage="production" date_submitted="2020-01-02" locale="en_US">
+  <id type="internal" advice="ignore">20170019</id>
+  <title locale="en_US">Influence of Natural and Industrial Factors on the Efficiency of the Dairy Industry</title>
+  <prefix locale="en_US">The</prefix>
+  <abstract locale="en_US">A comparative analysis of milk production in Poland and Belarus was carried out. The basic tendencies of modern development of the dairy industry and offered upcoming trends of innovative modernization of milk production processes were analyzed. On the basis of the analysis of trends in the global production of milk and new scientific knowledge on the biosynthesis of milk, a conceptual approach to the design of equipment for machine milking, is provided, considered the relationship of technical and physiological parameters.</abstract>
+  <licenseUrl>https://creativecommons.org/licenses/by-nc-nd/4.0/</licenseUrl>
+  <keywords locale="en_US">
+    <keyword>milk production</keyword>
+    <keyword>physiologically relaxed process</keyword>
+    <keyword>milking equipment</keyword>
+    <keyword>costs per unit</keyword>
+  </keywords>
+  <authors xsi:schemaLocation="http://pkp.sfu.ca native.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <author primary_contact="true" include_in_browse="true" user_group_ref="Author">
+      <givenname locale="en_US">Vadim</givenname>
+      <familyname locale="en_US">Kitikov</familyname>
+      <affiliation locale="en_US">Republican Unitary Enterprise Scientific and Practical Centre of the National Academy of Sciences of Belarus for Agriculture Mechanization, Republic of Belarus</affiliation>
+      <email>kitsikau@tut.by</email>
+    </author>
+    <author include_in_browse="true" user_group_ref="Author">
+      <givenname locale="en_US">Wacław</givenname>
+      <familyname locale="en_US">Romaniuk</familyname>
+      <affiliation locale="en_US">Institute of Technology and Life Sciences, Warsaw, Poland</affiliation>
+      <country>PL</country>
+      <email>noreply@wir.ptir.org</email>
+    </author>
+  </authors>
+  <article_galley xsi:schemaLocation="http://pkp.sfu.ca native.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" approved="false">
+    <id advice="ignore" type="internal">9</id>
+    <name locale="en_US">HTML</name>
+    <seq>1</seq>
+    <remote src="https://doi.org/10.1515/agriceng-2017-0019" />
+  </article_galley>
+  <issue_idenrification>
+    <volume>21</volume>
+    <number>2</number>
+    <year>2017</year>
+  </issue_idenrification>
+  <pages>91-100</pages>
+</articles>

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<articles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://pkp.sfu.ca" access_status="0" seq="1" section_ref="ART" date_published="2017-07-26" stage="production" date_submitted="2020-01-02" locale="en_US">
+  <id type="internal" advice="ignore">20170018</id>
+  <title locale="en_US">Analysis of the State Space of Management Process in the Industry Applying Expert Systems</title>
+  <prefix locale="en_US">The</prefix>
+  <abstract locale="en_US">The article includes analysis of expert system application possibilities in the environment of production processes control. Such concepts as artificial intelligence, expert system, intellectual factor, state space were used. The object of the research consisted of the mechanism of controlling an enterprise (manager). These mechanisms were analysed from the point of view of state space. The graph method was used to visualize information presentation. Analysis of control processes of an enterprise was carried out by determination of their state space. The concept of state space itself is completed with numerous measurement values (parameters) under influence of which the process of task solution takes place. Moreover, the concept of static and dynamic elements of state space of the control system is applied. It was shown that dynamic elements enable the quality presentation of space, which without including other restrictions leads to extension of its impact, which confirms that a given system has an intelligent factor.</abstract>
+  <licenseUrl>https://creativecommons.org/licenses/by-nc-nd/4.0/</licenseUrl>
+  <keywords locale="en_US">
+    <keyword>expert system</keyword>
+    <keyword>analysis</keyword>
+    <keyword>process</keyword>
+    <keyword>production</keyword>
+    <keyword>stability</keyword>
+  </keywords>
+  <authors xsi:schemaLocation="http://pkp.sfu.ca native.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <author primary_contact="true" include_in_browse="true" user_group_ref="Author">
+      <givenname locale="en_US">Jan Radosław</givenname>
+      <familyname locale="en_US">Kamiński</familyname>
+      <affiliation locale="en_US">Department of Agricultural and Forest Machinery, Warsaw University of Life Sciences ‒ SGGW</affiliation>
+      <country>PL</country>
+      <email>jan_kaminski@sggw.pl</email>
+    </author>
+    <author include_in_browse="true" user_group_ref="Author">
+      <givenname locale="en_US">Maciej</givenname>
+      <familyname locale="en_US">Kuboń</familyname>
+      <affiliation locale="en_US">Institute of Agricultural Engineering and Informatics, University of Agriculture in Krakow</affiliation>
+      <country>PL</country>
+      <email>noreply@wir.ptir.org</email>
+    </author>
+    <author include_in_browse="true" user_group_ref="Author">
+      <givenname locale="en_US">Irina Dmitrevna</givenname>
+      <familyname locale="en_US">Ivanova</familyname>
+      <affiliation locale="en_US">Department of Automation of Technological Process and Production, Mogilev State University of Food Stuffs, Belarus</affiliation>
+      <email>noreply@wir.ptir.org</email>
+    </author>
+    <author include_in_browse="true" user_group_ref="Author">
+      <givenname locale="en_US">Andreev Viktorovich</givenname>
+      <familyname locale="en_US">Sergutenko</familyname>
+      <affiliation locale="en_US">Department of Automation of Technological Process and Production, Mogilev State University of Food Stuffs, Belarus</affiliation>
+      <email>noreply@wir.ptir.org</email>
+    </author>
+  </authors>
+  <article_galley xsi:schemaLocation="http://pkp.sfu.ca native.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" approved="false">
+    <id advice="ignore" type="internal">8</id>
+    <name locale="en_US">HTML</name>
+    <seq>1</seq>
+    <remote src="https://doi.org/10.1515/agriceng-2017-0018" />
+  </article_galley>
+  <issue_idenrification>
+    <volume>21</volume>
+    <number>2</number>
+    <year>2017</year>
+  </issue_idenrification>
+  <pages>81-90</pages>
+</articles>

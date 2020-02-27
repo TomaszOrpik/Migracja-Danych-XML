@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<articles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://pkp.sfu.ca" access_status="0" seq="1" section_ref="ART" date_published="2017-07-26" stage="production" date_submitted="2020-01-02" locale="en_US">
+  <id type="internal" advice="ignore">20170016</id>
+  <title locale="en_US">Technological Preconditions in Dairy Farms</title>
+  <prefix locale="en_US">
+  </prefix>
+  <abstract locale="en_US">The paper presents the impact of the applied technologies on milk yield of cows in dairy farms. The scope of the research covered technical equipment used in the dairy cattle breeding and milking in 50 farms on the area of Grajewo Province in Podlaskie Voivodeship. The studies were carried out in 2016 with the diagnostic survey method based on the interview questionnaire developed for this purpose. The studies proved that 68% of the respondents from Grajewo Province maintain cattle in a stanchion-tide stable system and the remaining 32% in a free stall system. The group (48%) of the surveyed farmers maintain animals on a deep litter and 34% of them use shallow litter. In case of 18% of the investigated farms, animals are maintained on a slatted floor. In case of 68% of the investigated farms their owners feed cattle in the TMR system while the remaining 32% do it traditionally. The analysed farms in milk production use mainly pipeline milking machines (38%) and bucket milking machines (36%). 22% of the investigated farms have a milking parlour and 4% own a milking robot. A statistical analysis proved a significant correlation between the maintenance system of animals, number of lairs in a cow shed, TMR feeding of cattle, manner of obtaining milk and milk yield of cows.</abstract>
+  <licenseUrl>https://creativecommons.org/licenses/by-nc-nd/4.0/</licenseUrl>
+  <keywords locale="en_US">
+    <keyword>milk production</keyword>
+    <keyword>agricultural farms</keyword>
+    <keyword>technology</keyword>
+  </keywords>
+  <authors xsi:schemaLocation="http://pkp.sfu.ca native.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <author primary_contact="true" include_in_browse="true" user_group_ref="Author">
+      <givenname locale="en_US">Andrzej</givenname>
+      <familyname locale="en_US">Borusiewicz</familyname>
+      <affiliation locale="en_US">Department of Agronomics, Higher School of Agribusiness in Łomża</affiliation>
+      <country>PL</country>
+      <email>andrzej.borusiewicz@wsa.edu.pl</email>
+    </author>
+  </authors>
+  <article_galley xsi:schemaLocation="http://pkp.sfu.ca native.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" approved="false">
+    <id advice="ignore" type="internal">6</id>
+    <name locale="en_US">HTML</name>
+    <seq>1</seq>
+    <remote src="https://doi.org/10.1515/agriceng-2017-0016" />
+  </article_galley>
+  <issue_idenrification>
+    <volume>21</volume>
+    <number>2</number>
+    <year>2017</year>
+  </issue_idenrification>
+  <pages>59-68</pages>
+</articles>

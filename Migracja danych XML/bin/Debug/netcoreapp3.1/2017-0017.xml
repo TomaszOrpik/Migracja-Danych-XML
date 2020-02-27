@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<articles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://pkp.sfu.ca" access_status="0" seq="1" section_ref="ART" date_published="2017-07-26" stage="production" date_submitted="2020-01-02" locale="en_US">
+  <id type="internal" advice="ignore">20170017</id>
+  <title locale="en_US">Application of Bayesian Networks for Forecasting Future Model of Farm</title>
+  <prefix locale="en_US">
+  </prefix>
+  <abstract locale="en_US">Comparative analyses in the national scale were carried out in 300 individual farms from Małopolskie and Świętokrzyskie Voivodeship in order to search for relations between the production intensity level, work performance and land efficiency and factors which shape them. The analyses concerned the use of Bayesian modelling algorithms for forecasting development of various economic and agricultural indicators which decide on the intensity and competitiveness of agriculture. The paper constitutes the second stage of research, which was preceded with previous preparation of data for modelling with the use of an exploratory overview of available data and TwoStep Cluster Analysis (Grotkiewicz et al., 2016). Based on the analyses, which were carried out, networks were built which present the relations between the analyzed variables, and conditional similarities were verified.</abstract>
+  <licenseUrl>https://creativecommons.org/licenses/by-nc-nd/4.0/</licenseUrl>
+  <keywords locale="en_US">
+    <keyword>Bayesian Networks</keyword>
+    <keyword>forecasting</keyword>
+    <keyword>economic and agricultural indicators</keyword>
+    <keyword>farm</keyword>
+  </keywords>
+  <authors xsi:schemaLocation="http://pkp.sfu.ca native.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <author primary_contact="true" include_in_browse="true" user_group_ref="Author">
+      <givenname locale="en_US">Katarzyna</givenname>
+      <familyname locale="en_US">Grotkiewicz</familyname>
+      <affiliation locale="en_US">Institute of Agricultural Engineering and Informatics, University of Agriculture in Krakow</affiliation>
+      <country>PL</country>
+      <email>katarzyna.grotkiewicz@ur.krakow.pl</email>
+    </author>
+  </authors>
+  <article_galley xsi:schemaLocation="http://pkp.sfu.ca native.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" approved="false">
+    <id advice="ignore" type="internal">7</id>
+    <name locale="en_US">HTML</name>
+    <seq>1</seq>
+    <remote src="https://doi.org/10.1515/agriceng-2017-0017" />
+  </article_galley>
+  <issue_idenrification>
+    <volume>21</volume>
+    <number>2</number>
+    <year>2017</year>
+  </issue_idenrification>
+  <pages>69-79</pages>
+</articles>

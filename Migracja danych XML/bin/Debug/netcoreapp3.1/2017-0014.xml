@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<articles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://pkp.sfu.ca" access_status="0" seq="1" section_ref="ART" date_published="2017-07-26" stage="production" date_submitted="2020-01-02" locale="en_US">
+  <id type="internal" advice="ignore">20170014</id>
+  <title locale="en_US">Impact of the Irrigation Dose Amount on the Wheat Yield</title>
+  <prefix locale="en_US">
+  </prefix>
+  <abstract locale="en_US">The paper presents analysis of the impact of irrigation dose on the winter wheat Bystra yield, which is recommended for cultivation in Poland. It is a low-growing high-yield wheat cultivar. A reel sprinkler equipped with a computer for control of parameters of its operation, which was supplied with pond water was used for irrigation. Test were carried out on five fields, where four irrigation doses were used: 15, 20, 25, 30 mm. A change of weather during research in May and June caused the need to irrigate a field four times. During research, the size of the irrigation dose was measured with rain gauges on each of the investigated fields in five measurement points. One of the fields was a control field, which was not irrigated. The investigated wheat was characterized during harvesting. Research proved that the size of the irrigation dose influences the wheat yield. The grain yield between a control field and a field with the highest irrigation dose increased by twofold. Moreover, analysis of costs incurred during sprinkling were analysed.</abstract>
+  <licenseUrl>https://creativecommons.org/licenses/by-nc-nd/4.0/</licenseUrl>
+  <keywords locale="en_US">
+    <keyword>sprinkler</keyword>
+    <keyword>irrigation</keyword>
+    <keyword>exploitation</keyword>
+    <keyword>wheat</keyword>
+  </keywords>
+  <authors xsi:schemaLocation="http://pkp.sfu.ca native.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <author primary_contact="true" include_in_browse="true" user_group_ref="Author">
+      <givenname locale="en_US">Jerzy</givenname>
+      <familyname locale="en_US">Bieniek</familyname>
+      <affiliation locale="en_US">Institute of Agricultural Engineering, Wroclaw University of Environmental and Life Sciences</affiliation>
+      <country>PL</country>
+      <email>jerzy.bieniek@upwr.edu.pl</email>
+    </author>
+    <author include_in_browse="true" user_group_ref="Author">
+      <givenname locale="en_US">Marek</givenname>
+      <familyname locale="en_US">Mielnicki</familyname>
+      <affiliation locale="en_US">Institute of Agricultural Engineering, Wroclaw University of Environmental and Life Sciences</affiliation>
+      <country>PL</country>
+      <email>noreply@wir.ptir.org</email>
+    </author>
+    <author include_in_browse="true" user_group_ref="Author">
+      <givenname locale="en_US">Leszek</givenname>
+      <familyname locale="en_US">Romański</familyname>
+      <affiliation locale="en_US">Institute of Agricultural Engineering, Wroclaw University of Environmental and Life Sciences</affiliation>
+      <country>PL</country>
+      <email>noreply@wir.ptir.org</email>
+    </author>
+    <author include_in_browse="true" user_group_ref="Author">
+      <givenname locale="en_US">Piotr</givenname>
+      <familyname locale="en_US">Komarnicki</familyname>
+      <affiliation locale="en_US">Institute of Agricultural Engineering, Wroclaw University of Environmental and Life Sciences</affiliation>
+      <country>PL</country>
+      <email>noreply@wir.ptir.org</email>
+    </author>
+  </authors>
+  <article_galley xsi:schemaLocation="http://pkp.sfu.ca native.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" approved="false">
+    <id advice="ignore" type="internal">4</id>
+    <name locale="en_US">HTML</name>
+    <seq>1</seq>
+    <remote src="https://doi.org/10.1515/agriceng-2017-0014" />
+  </article_galley>
+  <issue_idenrification>
+    <volume>21</volume>
+    <number>2</number>
+    <year>2017</year>
+  </issue_idenrification>
+  <pages>33-47</pages>
+</articles>

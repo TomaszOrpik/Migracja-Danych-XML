@@ -1,0 +1,11 @@
+C:\Users\Tomek\Desktop\C#\Migracja danych XML\Migracja danych XML\obj\Debug\netcoreapp3.1\Migracja danych XML.csprojAssemblyReference.cache
+C:\Users\Tomek\Desktop\C#\Migracja danych XML\Migracja danych XML\obj\Debug\netcoreapp3.1\Migracja danych XML.AssemblyInfoInputs.cache
+C:\Users\Tomek\Desktop\C#\Migracja danych XML\Migracja danych XML\obj\Debug\netcoreapp3.1\Migracja danych XML.AssemblyInfo.cs
+C:\Users\Tomek\Desktop\C#\Migracja danych XML\Migracja danych XML\bin\Debug\netcoreapp3.1\Migracja danych XML.exe
+C:\Users\Tomek\Desktop\C#\Migracja danych XML\Migracja danych XML\bin\Debug\netcoreapp3.1\Migracja danych XML.deps.json
+C:\Users\Tomek\Desktop\C#\Migracja danych XML\Migracja danych XML\bin\Debug\netcoreapp3.1\Migracja danych XML.runtimeconfig.json
+C:\Users\Tomek\Desktop\C#\Migracja danych XML\Migracja danych XML\bin\Debug\netcoreapp3.1\Migracja danych XML.runtimeconfig.dev.json
+C:\Users\Tomek\Desktop\C#\Migracja danych XML\Migracja danych XML\bin\Debug\netcoreapp3.1\Migracja danych XML.dll
+C:\Users\Tomek\Desktop\C#\Migracja danych XML\Migracja danych XML\bin\Debug\netcoreapp3.1\Migracja danych XML.pdb
+C:\Users\Tomek\Desktop\C#\Migracja danych XML\Migracja danych XML\obj\Debug\netcoreapp3.1\Migracja danych XML.dll
+C:\Users\Tomek\Desktop\C#\Migracja danych XML\Migracja danych XML\obj\Debug\netcoreapp3.1\Migracja danych XML.pdb
